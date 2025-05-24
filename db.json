@@ -13,10 +13,10 @@
       "id": "b292"
     },
     {
-      "id": "ce43",
       "name": "Lab Coat ",
-      "description": "size m",
-      "quantity": 50
+      "description": "size xl",
+      "quantity": 50,
+      "id": "ce43"
     },
     {
       "name": "Lab Coat ",
