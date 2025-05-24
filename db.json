@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "name": "social book 9th std ",
+      "description": "term1 sem1",
+      "quantity": 0,
+      "id": "8088"
+    },
+    {
+      "name": "lab coat ",
+      "description": "size s",
+      "quantity": 100,
+      "id": "b292"
+    },
+    {
+      "id": "ce43",
+      "name": "Lab Coat ",
+      "description": "size m",
+      "quantity": 50
+    },
+    {
+      "name": "Lab Coat ",
+      "description": "size l",
+      "quantity": 40,
+      "id": "5029"
+    },
+    {
+      "name": "dic ",
+      "description": "english oxford dic ",
+      "quantity": 0,
+      "id": "8686"
+    },
+    {
+      "id": "d880",
+      "name": "stationary kit",
+      "description": "complete kit scale-1,box-1",
+      "quantity": 100
+    },
+    {
+      "name": "long size notebook",
+      "description": "rulled 200 pages ",
+      "quantity": 1,
+      "id": "50c7"
+    },
+    {
+      "id": "a84d",
+      "name": "small size note book ",
+      "description": "ruled 90 pages",
+      "quantity": 100
+    },
+    {
+      "id": "b01a",
+      "name": "pen ",
+      "description": "blue ink",
+      "quantity": 1000
+    },
+    {
+      "name": "6th science book",
+      "description": "term1",
+      "quantity": 10,
+      "id": "c9b3"
+    },
+    {
+      "id": "39ca",
+      "name": "dic 2",
+      "description": "cambrige ",
+      "quantity": 19
+    },
+    {
+      "id": "7c8e",
+      "name": "tab",
+      "description": "for 1-5std",
+      "quantity": 100
+    },
+    {
+      "name": "Gift ",
+      "description": "collection set ",
+      "quantity": 20,
+      "id": "015a"
+    },
+    {
+      "name": "pen ",
+      "description": "complete set ",
+      "quantity": 50,
+      "id": "986c"
+    },
+    {
+      "id": "b09c",
+      "name": "shoe",
+      "description": "size 6",
+      "quantity": 200
+    },
+    {
+      "id": "43f8",
+      "name": "shoe ",
+      "description": "size 7",
+      "quantity": 30
+    },
+    {
+      "id": "58f8",
+      "name": "shoe ",
+      "description": "size 8",
+      "quantity": 38
+    },
+    {
+      "id": "e51d",
+      "name": "shoe ",
+      "description": "size 9",
+      "quantity": 20
+    },
+    {
+      "id": "a7e7",
+      "name": "shoe ",
+      "description": "size 10",
+      "quantity": 30
+    },
+    {
+      "id": "1caf",
+      "name": "shoe ",
+      "description": "size 11",
+      "quantity": 20
+    },
+    {
+      "id": "54d4",
+      "name": "tie ",
+      "description": "all sizes ",
+      "quantity": 500
+    },
+    {
+      "id": "25d4",
+      "name": "shocks pair ",
+      "description": "unisex all sizes",
+      "quantity": 30
+    }
+  ]
+}
